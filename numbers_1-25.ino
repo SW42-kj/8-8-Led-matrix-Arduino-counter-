@@ -35,6 +35,7 @@ const uint64_t NUMBERS[] PROGMEM = {
   0x004741fa54654600,   //24
   0x007781827415f600,  //25
   0xffffffffffffffff,  //blanck
+// the user can more hex numbers till 40
 };
 
 void setup() {
